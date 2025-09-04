@@ -1,6 +1,6 @@
-# 🌱 Farmpoa
+# 🌱 Farmpoa AI
 
-Farmpoa is a **smart agriculture assistant** built with **Flutter**.  
+Farmpoa is an  ** AI smart agriculture assistant** built with **Flutter**.  
 It leverages **AI (TensorFlow Lite)** and device sensors to help farmers detect plant diseases, monitor farm conditions, and make better farming decisions.
 
 ---
