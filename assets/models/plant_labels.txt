@@ -1,0 +1,5 @@
+Healthy leaf
+Leaf blight
+Rust
+Aphid damage
+Nutrient deficiency

@@ -1,0 +1,26 @@
+name: farmpoa
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  logger: ^2.0.2
+  tflite_flutter: ^0.10.4
+  camera: ^0.10.6
+  image_picker: ^1.1.1
+  image: ^4.1.3
+  supabase_flutter: ^2.6.0
+  google_maps_flutter: ^2.7.0
+  http: ^1.2.2
+  flutter_bloc: ^8.1.4
+  intl: ^0.19.0
+  geolocator: ^13.0.1
+  url_launcher: ^6.3.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_blue_plus: ^1.31.16
+  flutter_lints: ^6.0.0
+  
+
